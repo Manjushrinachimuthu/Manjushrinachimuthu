@@ -71,10 +71,10 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjushrinachimuthu&theme=react-dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=BB86FC&point=00E5FF&area=true" />
+  <img src="https://raw.githubusercontent.com/Manjushrinachimuthu/Manjushrinachimuthu/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 💻 LeetCode
