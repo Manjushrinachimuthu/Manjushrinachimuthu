@@ -62,10 +62,6 @@
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
 <img src="https://skillicons.dev/icons?i=firebase"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
