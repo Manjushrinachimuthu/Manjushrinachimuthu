@@ -94,7 +94,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjushrinachimuthu&theme=tokyonight"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo"/>
+<img src="https://leetcard.jacoblin.cool/manju__0208?theme=dark&font=Baloo"/>
 
 </p>
 
