@@ -7,6 +7,21 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## 👩‍💻 About Me
 👀 I’m interested in print("Java");
