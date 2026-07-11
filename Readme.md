@@ -8,13 +8,6 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
-
-## 👩‍💻 About Me
-
-🎓 Final Year **Computer Science & Business Systems** Student
-
-🏫 **VSB Engineering College**
-
 💻 Passionate about
 
 - Java Development
@@ -29,8 +22,6 @@
 - React
 - System Design
 - Generative AI
-
-📊 Solved **100+ DSA Problems**
 
 📫 Email
 
@@ -127,15 +118,6 @@
 
 ---
 
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
-
-</p>
-
----
 
 # 💻 LeetCode
 
