@@ -30,12 +30,6 @@
 - System Design
 - Generative AI
 
-🚀 Currently Working On
-
-- Smart Price Checker
-- AI Based Placement Platform
-- AI Meeting Assistant
-
 📊 Solved **100+ DSA Problems**
 
 📫 Email
@@ -147,16 +141,6 @@
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=6"/>
 
 </p>
 
