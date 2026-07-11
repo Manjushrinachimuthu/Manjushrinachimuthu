@@ -35,13 +35,6 @@
 📫 Email
 
 **manjushrithurai@gmail.com**
-
-⚡ Fun Fact
-
-> Every bug teaches me something new.
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
