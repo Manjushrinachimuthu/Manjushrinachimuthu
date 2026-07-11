@@ -8,26 +8,11 @@
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ---
-💻 Passionate about
-
-- Java Development
-- Full Stack Web Development
-- Artificial Intelligence
-- Data Analytics
-- Problem Solving
-
-🌱 Currently Learning
-
-- Spring Boot
-- React
-- System Design
-- Generative AI
-
-📫 Email
-
-**manjushrithurai@gmail.com**
-# 🌐 Connect With Me
-
+👀 I’m interested in print("Java");
+🌱 I’m currently learning AI & ML
+💞️ I’m looking to collaborate on Top MNC
+😄 Pronouns: Growing Data Analyst
+⚡ Fun fact: Always be blessed to have ctrl+z...
 <p align="left">
 
 <a href="YOUR_LINKEDIN_URL">
