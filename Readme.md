@@ -71,13 +71,11 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjushrinachimuthu&theme=tokyonight"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=BB86FC&line=BB86FC&point=00E5FF&area=true" />
 </p>
-
----
 
 # 💻 LeetCode
 
